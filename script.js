@@ -165,9 +165,59 @@ const cvData = {
       period: "2014"
     },
     {
+      event: "CodaLab for Data-Driven Research, Learn, Share and Collaborate", 
+      role: "Co-organizer with I. Guyon, ChaLearn; P. Liang, Stanford University, S. Mercer, Microsoft Research, Faculty Summit", 
+      period: "2014"
+    },  
+    {
+      event: "Data-Centric Programming", 
+      role: "Co-organizer with J. Bishop, Microsoft Research; J. Gibbons, University of Oxford; E. Meijer, Applied Duality", 
+      period: "2014"
+    },
+    {
+      event: "Data Driven Functional Programming", 
+      role: "Co-organizer with J. Bishop, Microsoft Research; K. Breitman, EMC Labs", 
+      period: "2013"
+    },
+        {
       event: "Machine Learning Summit",
       role: "Co-chair with C. Bishop, Microsoft Research.",
       period: "2013"
+    },
+    {
+      event: "First Workshop on Programming the Semantic Web", 
+      role: "Co-organizer with K. Breitman, EMC Labs; S. Staab, University of Koblenz-Landau, Ja.Vitek, Purdue University", 
+      period: "2012"
+    },
+    {
+      event: "Spelling Alteration for Web Search Workshop", 
+      role: "Co-organizer with J. Gao, Microsoft Research; K. Wang, Microsoft Research; J. Pedersen, Microsoft", 
+      period: "2011"
+    },
+    {
+      event: "SIGIR 2010 Web N-gram Workshop", 
+      role: "Co-organizer with C. Zhai, University of Illinois at Urbana-Champaign; D. Yarowsky, Johns Hopkins University, K. Wang, Microsoft Research, S. Vogel, Carnegie Mellon University", 
+      period: "2010"
+    },
+    {
+      event: "Workshop on Confidential Data Collection for Innovation Analysis in Organizations 2009", 
+      role: "Co-organizer with N. Bloom, Stanford University; I. Cruz, University of Illinois at Chicago; C. Schunn, University of Pittsburgh. Sponsored by National Science Foundation", 
+      period: "2009"
+    },
+    {
+      event: "Workshop on Privacy in the Age of Big Data 2009", 
+      role: "Co-organizer with N. Christin, Carnegie Mellon University; J. Camenisch, IBM Research; A. Acquisti, Carnegie Mellon University. Sponsored by National Science Foundation", 
+      period: "2009",
+    },
+    { 
+      event: "Beyond Search, Semantic Computing and Internet Economics 2009 Workshop", 
+      role: "Co-organizer with E. Dominowska, OSD, Bing. Sponsored by External Research and OSD-Bing", 
+      period: "2009",
+    },
+    { 
+      event: "WSDM 2009 Web Search Click Data 2009", 
+      role: "Co-organizer with N. Craswell, Microsoft; R. Jones, Yahoo! Labs; G. Dupret, Yahoo! Labs. Sponsored by the Association for Computing Machinery (ACM)", 
+      period: "2009",
     }
   ],
   service: [
@@ -177,8 +227,9 @@ const cvData = {
     "Competition Judge - Technovation AI Challenge for Girls and Families worldwide.",
     "Evaluator - University-Industry Demos and Partnerships.",
     "Mentor - Coaching colleagues in industry and graduate scholarship women.",
-    "Reviewer - Journals, conferences, and government agency panels including NSF."
-  ],
+    "Reviewer - Journals, conferences, and government agency panels including NSF.",
+    "Program Committee member - Association for the Advancement of Artificial Intelligence (AAAI), Association for Computational Linguistics (ACL), Conference on Computational Linguistics (COLING), Grace Hopper Conference (GHC) on Data Science track, International and European Semantic Web Conference (ISWC/ESWC), Journal of Web Semantics, Language Resources and Evaluation (LREC), National Science Foundation (NSF), World Wide Web Conference (WWW)."
+          ],
   languages: [
     { lang: "English", level: "Fluent" },
     { lang: "French", level: "Fluent" },

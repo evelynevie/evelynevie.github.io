@@ -319,8 +319,8 @@ function revealOnScroll() {
       }
     },
     {
-      threshold: 0.08,
-      rootMargin: "0px 0px -8% 0px"
+      threshold: 0,
+      rootMargin: "0px 0px 0px 0px"
     }
   );
 

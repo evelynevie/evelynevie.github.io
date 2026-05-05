@@ -1,9 +1,9 @@
 const cvData = {
   experience: [
     {
-      title: "Senior Director, Technical Advisor - AI Research and Innovation",
+      title: "Senior Director, AI Research and Innovation",
       org: "Microsoft Research",
-      period: "2024 - present",
+      period: "2025 - 2026",
       bullets: [
         "Accelerate Agentic AI Research and Innovation working with the academic research community worldwide, advancing foundations, applications, and responsible AI.",
         "Advance knowledge in Agentic AI research in physical and virtual worlds across agriculture, education, energy, robotics, and space.",
@@ -12,9 +12,20 @@ const cvData = {
       ]
     },
     {
+      title: "Technical Advisor to the Corporate Vice President, Microsoft Research Accelerator",
+      org: "Microsoft Research",
+      period: "2024 - 2025",
+      bullets: [
+        "Create research explorations via collaborative partnerships, with a focus on interdisciplinariry research, to reimagine AI research.",
+        "Build and sustain global research ecosystems to share knowledge, accelerate scientific and sociotechnical discoveries for the benefit of society and the world.",
+        "Create research explorations via collaborative partnerships, with a focus on interdisciplinariry research, to reimagine AI research.",
+        "Foster a culture of creativity and entrepreneurship in academia to accelerate the translation of research into societal and business value."
+      ]  
+    },
+    {
       title: "Senior Director - Global Research Catalyst",
       org: "Microsoft Research Accelerator",
-      period: "2021 - 2023",
+      period: "2021 - 2024",
       bullets: [
         "Created a global research network with over 200 Principal Investigators from 27 countries via the Accelerating Foundation Models Research initiative.",
         "Democratized AI research by providing access to frontier models through Azure AI services.",

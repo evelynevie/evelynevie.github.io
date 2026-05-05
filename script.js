@@ -1,14 +1,23 @@
 const cvData = {
   experience: [
     {
+      title: "Vice President, AI Research and Scientific Discovery",
+      org: "ChaLearn",
+      period: "2026 - present",
+      bullets: [
+        "Stimulate AI research to address sociotechnical challenges and advance the frontiers of Agentic AI in scientific applications.",
+        "Increase our understanding of expertise and creativity in AI systems and human-AI collaboration.",
+        "Identify opportunities to grow AI literacy in underserved communities.",
+      ]
+    },
+     {
       title: "Senior Director, AI Research and Innovation",
       org: "Microsoft Research",
       period: "2025 - 2026",
       bullets: [
-        "Accelerate Agentic AI Research and Innovation working with the academic research community worldwide, advancing foundations, applications, and responsible AI.",
-        "Advance knowledge in Agentic AI research in physical and virtual worlds across agriculture, education, energy, robotics, and space.",
-        "Harness the transformative potential of academic knowledge and translate it into tangible assets and tools that can directly benefit society.",
-        "Shorten the journey from creative inventions to societal and business values by fostering academic creativity and entrepreneurship."
+        "Accelerate Agentic AI Research and Innovation working with the academic research community worldwide, advancing foundations, applications (e.g., agriculture, education, energy, robotics, and space.), and responsible AI.",
+        "Harness the transformative potential of academic knowledge and translate it into tangible assets that can directly benefit society.",
+        "Shorten the journey from creative inventions to societal and business values by fostering creativity and entrepreneurship."
       ]
     },
     {
@@ -18,8 +27,7 @@ const cvData = {
       bullets: [
         "Create research explorations via collaborative partnerships, with a focus on interdisciplinariry research, to reimagine AI research.",
         "Build and sustain global research ecosystems to share knowledge, accelerate scientific and sociotechnical discoveries for the benefit of society and the world.",
-        "Create research explorations via collaborative partnerships, with a focus on interdisciplinariry research, to reimagine AI research.",
-        "Foster a culture of creativity and entrepreneurship in academia to accelerate the translation of research into societal and business value."
+        "Foster a culture of creativity and entrepreneurship to accelerate the translation of research into societal and business value."
       ]  
     },
     {
@@ -27,20 +35,18 @@ const cvData = {
       org: "Microsoft Research Accelerator",
       period: "2021 - 2024",
       bullets: [
-        "Created a global research network with over 200 Principal Investigators from 27 countries via the Accelerating Foundation Models Research initiative.",
-        "Democratized AI research by providing access to frontier models through Azure AI services.",
-        "240 faculty and teams in 130 academic institutions across 27 countries contributed to 400 publications presented at 160 conferences worldwide.",
-        "Contributed to the National AI Resources Research pilot as the blueprint for providing industry cloud resources to academia."
-      ]
+        "Create a global research network via the Accelerating Foundation Models Research (AFMR) initiative to ensure AI research is accessible and impactful .",
+        "Democratize AI research by providing access to compute and frontier models through Azure AI services.",
+        "Contribute to the National Science Foundation (NSF) National AI Resources Research pilot (NAIRR) with the AFMR initiative as the blueprint for providing industry cloud resources to academia."
+      ] 
     },
     {
       title: "Senior Director - Research Engagement",
       org: "Microsoft Research and Incubations",
       period: "2017 - 2020",
       bullets: [
-        "Defined the research engagement strategy to further scientific and technological advances across academia, industries, and government agencies.",
-        "Developed a vibrant global research ecosystem via fellowships, internships, workshops, competitions, and visiting researchers.",
-        "Over 1,700 faculty and students from 35 countries and 400+ researchers engaged in knowledge exchange."
+        "Define the research engagement strategy to further scientific and technological advances across academia, industries, and government agencies.",
+        "Develop a vibrant global research ecosystem via fellowships, internships, workshops, competitions, and visiting researchers.",
       ]
     },
     {
@@ -48,9 +54,8 @@ const cvData = {
       org: "Microsoft Artificial Intelligence and Research",
       period: "2006 - 2016",
       bullets: [
-        "Defined strategy for AI, ML and systems, creating breadth programs and research collaborations with academia, industry labs, and government agencies.",
-        "Delivered open-source signature projects: CodaLab, Minecraft-Malmo, Azure Machine Learning, TryFSharp.",
-        "Partnered with NSF on a Web n-gram service serving billions of queries to the research community."
+        "Strategist for AI, ML and systems, creating breadth programs and research collaborations with academia, industry labs, and government agencies.",
+        "Lead for open-source signature projects: CodaLab, Minecraft-Malmo, Azure Machine Learning, TryFSharp, Web n-gram service",
       ]
     },
     {
@@ -58,8 +63,7 @@ const cvData = {
       org: "Microsoft Server and Tools",
       period: "2000 - 2005",
       bullets: [
-        "Full product cycles from vision to release on Windows and Office, including spell and grammar checkers and semantic search in MSN and Bing.",
-        "Led project management, technical leadership, and cross-organizational efforts."
+        "Full product cycles from vision to release on Windows and Office, including spell and grammar checkers and semantic search in MSN and Bing via project management, technical leadership, and cross-organizational efforts."
       ]
     },
     {
@@ -76,15 +80,15 @@ const cvData = {
   education: [
     {
       degree: "PhD, Computational Linguistics",
-      institution: "Computer Science Research Institute, Universite Toulouse II, France"
+      institution: "Computer Science Research Institute, Universite Toulouse Jean Jaures, France"
     },
     {
       degree: "MS, Computer Science and Mathematics",
-      institution: "Universite Toulouse III, France"
+      institution: "Universite Paul Sabatier, France"
     },
     {
       degree: "Executive MS, Information Management",
-      institution: "University of Washington"
+      institution: "University of Washington, USA"
     }
   ],
   patents: [
@@ -95,7 +99,7 @@ const cvData = {
     { title: "Named Entity Interface for Multiple Client Application Programs", year: "2008", no: "7,315,810" }
   ],
   books: [
-    "Guyon, I., Pavao, A., Viegas, E. (2023). AI competitions and benchmarks: the science behind the contests.",
+    "Guyon, I., Pavao, A., Viegas, E. (2025). AI competitions and benchmarks: the science behind the contests.",
     "Viegas, E. (ed.) (1999, 2007). Breadth and Depth of Semantic Lexicons. Kluwer Academic Press.",
     "Bouillon, P., Jacqmin, L., Russell, G., Da Sylva, L., Vandooren, F. and Viegas, E. (1998). Traitement automatique des langues naturelles. Textbook on NLP. Ed. Duculot, Deboeck, Paris, Bruxelles.",
     "St-Dizier, P., Viegas, E. (ed.) (1995, 2005). Computational Lexical Semantics. Cambridge University Press."

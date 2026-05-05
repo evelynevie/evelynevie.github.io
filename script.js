@@ -7,7 +7,26 @@ const cvData = {
       bullets: [
         "Stimulate AI research to address sociotechnical challenges and advance the frontiers of Agentic AI in scientific applications.",
         "Increase our understanding of expertise and creativity in AI systems and human-AI collaboration.",
+        "Identify opportunities to grow AI literacy in varied fields of higher education worldwide.",
+      ]
+    },
+    {
+      title: "Board Director",
+      org: "Matriculate",
+      period: "2026 - present",
+      bullets: [
+        "Board Director at Matriculate, a nonprofit organization empowering high-achieving, low-income high school students to access and succeed at top colleges through virtual, peer-to-peer advising.",
+        "Identify human-centered AI tools, which take into account the variety of students'contexts and situations, tohelp scale student reach and increase successful outcomes.",
         "Identify opportunities to grow AI literacy in underserved communities.",
+      ]
+    },
+    {
+      title: "Investor",
+      org: "Seattle Angel Conference",
+      period: "2026 - present",
+      bullets: [
+        "Identify early stage startups with the potential to positively impact hundreds of million of people, accelerated by humans-AIs integration and workflows.",
+        "Increase our understanding of AIs' impact in the development of creativee ideas into scalable products.",
       ]
     },
      {

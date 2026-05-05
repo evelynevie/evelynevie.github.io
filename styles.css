@@ -315,7 +315,7 @@ a {
 
 .book-row {
   display: grid;
-  grid-template-columns: repeat(3, 118px);
+  grid-template-columns: repeat(3, 110px);
   gap: 1rem;
   justify-content: start;
 }

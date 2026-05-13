@@ -5,8 +5,8 @@ const cvData = {
       org: "ChaLearn",
       period: "2026 - present",
       bullets: [
-        "Stimulate AI research to address sociotechnical challenges and advance the frontiers of Agentic AI in scientific applications.",
-        "Increase our understanding of expertise and creativity in AI systems and human-AI collaboration.",
+        "Stimulate AI research to address scientific and sociotechnical challenges and advance the frontiers of Agentic AI in scientific applications via coopetitions.",
+        "Increase our understanding of the role ofhuman expertise and creativity in AI systems and the role of humans-AIs collaborations in building competitions and benchmarks.",
         "Identify opportunities to grow AI literacy in varied fields of higher education worldwide.",
       ]
     },
@@ -94,6 +94,15 @@ const cvData = {
         "Published results in peer-reviewed journals and presented at international venues.",
         "Organized international workshops with leading researchers in Natural Language Processing."
       ]
+    },
+    {
+      title: "Postdoctoral Researcher",
+      org: "Brandeis University - Computer Science Department",
+      period: "1993 - 1994",
+      bullets: [
+        "Research on Computational Lexical Semantics and Generative Lexicon Theory.",
+        "Taught a graduate class on Natural Language Generation."
+      ]   
     }
   ],
   education: [

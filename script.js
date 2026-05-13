@@ -367,7 +367,7 @@ function renderCVPage() {
     const meta = document.createElement("div");
     meta.className = "entry-meta";
     meta.appendChild(createTextElement("div", "", job.period));
-    meta.appendChild(createTextElement("div", "", job.org));
+    meta.appendChild(createTextElement("div", "org-name", job.org));
 
     const body = document.createElement("div");
     body.appendChild(createTextElement("h3", "entry-title", job.title));

@@ -6,8 +6,8 @@ const cvData = {
       period: "2026 - present",
       bullets: [
         "Stimulate AI research to address scientific and sociotechnical challenges and advance the frontiers of Agentic AI in scientific applications via coopetitions.",
-        "Increase our understanding of the role ofhuman expertise and creativity in AI systems and the role of humans-AIs collaborations in building competitions and benchmarks.",
-        "Identify opportunities to grow AI literacy in varied fields of higher education worldwide.",
+        "Increase our understanding of the role of human expertise and creativity in AI systems and the role of humans-AIs collaborations in building competitions and benchmarks.",
+        "Identify opportunities to grow AI literacy in varied domains worldwide.",
       ]
     },
     {
@@ -16,7 +16,7 @@ const cvData = {
       period: "2026 - present",
       bullets: [
         "Board Director at Matriculate, a nonprofit organization empowering high-achieving, low-income high school students to access and succeed at top colleges through virtual, peer-to-peer advising.",
-        "Identify human-centered AI tools, which take into account the variety of students'contexts and situations, tohelp scale student reach and increase successful outcomes.",
+        "Identify human-centered AI tools, which take into account the variety of students'contexts and situations, to help scale student reach and increase successful outcomes.",
         "Identify opportunities to grow AI literacy in underserved communities.",
       ]
     },
@@ -127,7 +127,7 @@ const cvData = {
     { title: "Named Entity Interface for Multiple Client Application Programs", year: "2008", no: "7,315,810" }
   ],
   books: [
-    "Guyon, I., Pavao, A., Viegas, E. (2025). AI competitions and benchmarks: the science behind the contests.",
+    "Pavao, A., Guyon, I., Viegas, E. (2025). AI competitions and benchmarks: the science behind the contests.",
     "Viegas, E. (ed.) (1999, 2007). Breadth and Depth of Semantic Lexicons. Kluwer Academic Press.",
     "Bouillon, P., Jacqmin, L., Russell, G., Da Sylva, L., Vandooren, F. and Viegas, E. (1998). Traitement automatique des langues naturelles. Textbook on NLP. Ed. Duculot, Deboeck, Paris, Bruxelles.",
     "St-Dizier, P., Viegas, E. (ed.) (1995, 2005). Computational Lexical Semantics. Cambridge University Press."
